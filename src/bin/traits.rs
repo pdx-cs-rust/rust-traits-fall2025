@@ -141,3 +141,4 @@ fn main() {
     println!("{}", ().uglify());
     println!("{:?}", 17u8.hash() == "hello world".hash());
 }
+
